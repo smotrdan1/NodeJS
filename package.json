@@ -1,14 +1,15 @@
 {
-  "name": "calculator",
+  "name": "weatherproject",
   "version": "1.0.0",
-  "description": "a simple calculator website.",
-  "main": "calculator.js",
+  "description": "",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Daniel s",
+  "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "express": "^4.17.1"
   }
 }
